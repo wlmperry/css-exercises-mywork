@@ -1,13 +1,14 @@
-.btn--primary.btn--secondary {
-        font-size: 28px;
-        font-family: Helvetica, 'Times New Roman', sans-serif;
+.btn--primary,
+.btn--secondary {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
 }
 
-.btn-primary {
+.btn--primary {
     background-color: black;
     color: white;
 }
 
-.btn-secondary {
+.btn--secondary {
     background-color: yellow;
 }
